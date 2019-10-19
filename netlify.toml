@@ -1,0 +1,4 @@
+[build]
+base = "myapp"
+publish = "myapp"
+command = "yarn watch"
